@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "cypress": "^10.6.0"
+  },
+  "dependencies": {
+    "npm-git-install": "^0.3.0"
+  }
+}
